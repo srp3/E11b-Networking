@@ -1,4 +1,4 @@
-# E11b-Networking
+# E11b-Networking Sunny Patel, 2020, C220. This completes the 11b assignment
 A simple example of a HTTP request in Godot.
 
 This should be a super-simple opportunity for you to see how to make a HTTP request from within Godot. For this example, we will be using a JSON testing tool: [jsontest.com](http://www.jsontest.com)
